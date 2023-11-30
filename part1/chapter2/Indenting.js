@@ -6,9 +6,9 @@ if (false != true) {
 }
 
 function greet(name) {
-    if (name) {
-      console.log("Hello, " + name + "!");
-    } else {
-      console.log("Hello, stranger!");
-    }
+  if (name) {
+    console.log("Hello, " + name + "!");
+  } else {
+    console.log("Hello, stranger!");
+  }
 }
