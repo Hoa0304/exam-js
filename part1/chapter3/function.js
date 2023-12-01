@@ -3,4 +3,4 @@ function greet(name) {
   }
   
   // Call the function and print the result to the console
-console.log(greet("John")); // Output: "Hello, John!"
+console.log(greet("Hoa")); // Output: "Hello, John!"
