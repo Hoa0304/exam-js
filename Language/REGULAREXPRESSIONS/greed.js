@@ -6,4 +6,4 @@ console.log(stripComments("1 + /* 2 */3"));
 console.log(stripComments("x = 10;// ten!"));
 // → x = 10;
 console.log(stripComments("1 /* a */+/* b */ 1"));
- // → 1 1s
+ // → 1 1syou
